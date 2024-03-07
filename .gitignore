@@ -1,0 +1,4 @@
+setenv.sh
+**/bin/
+**/obj/
+.vscode/

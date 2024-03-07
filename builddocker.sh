@@ -1,0 +1,1 @@
+docker build --pull --rm -f "dockerfile" -t service:latest "."
